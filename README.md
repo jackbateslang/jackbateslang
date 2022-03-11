@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackbateslang
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning Rust, Typescript, Kubernetes
 - 💞️ I’m looking to collaborate on anything
 
 <!---
